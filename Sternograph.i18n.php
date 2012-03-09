@@ -63,6 +63,16 @@ $messages['dsb'] = array(
 	'sternograph-speaker-is' => 'Smužki powědarskego bloka <$1> musy $2 {{PLURAL:$2|znamuško|znamušce|znamuška|znamuškow}} měś.',
 );
 
+/** Spanish (Español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'sternograph-desc' => 'Etiquetas <nowiki><sterno></nowiki> para las transcripciones de discursos (juegos, entrevistas, etc.)',
+	'sternograph-empty' => 'La etiqueta <$1> no puede estar vacía.',
+	'sternograph-nested' => 'La etiqueta <$1> no puede anidarse.',
+	'sternograph-speaker-is' => 'Las líneas del bloque de discurso <$1> deben contener el carácter $2.',
+);
+
 /** French (Français)
  * @author Gomoko
  */
