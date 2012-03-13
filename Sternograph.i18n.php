@@ -150,6 +150,16 @@ $messages['nl'] = array(
 	'sternograph-speaker-is' => 'Het sprekerblok <$1> moet het teken $2 bevatten.',
 );
 
+/** Polish (Polski)
+ * @author BeginaFelicysym
+ */
+$messages['pl'] = array(
+	'sternograph-desc' => 'Znaczniki <nowiki><sterno></sterno></nowiki> do zapisów wymowy słów (utwory, wywiady itp.)',
+	'sternograph-empty' => 'Znacznik <$1> nie może być pusty.',
+	'sternograph-nested' => 'Znacznik <$1> nie może być zagnieżdżony.',
+	'sternograph-speaker-is' => 'Linie bloku <$1> spikera  muszą zawierać znak $2.',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
