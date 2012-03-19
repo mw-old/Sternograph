@@ -10,12 +10,12 @@ class Sternograph{
 	*/
 	const DELIMETER = '^'; 
 	/**
-	Delimeter for Speaker blocks.  The very first occurence of this string
+	Delimeter for Speaker blocks.  The very first occurrence of this string
 	is used to separate the speaker block from the content block.
 	*/
 	const SPEAKER_DELIM = '^^^';
 	/**
-	Delimeter for Context block.  The very last occurence of this string
+	Delimeter for Context block.  The very last occurrence of this string
 	is used to separate the content block from the context block.
 	*/
 	const CONTEXT_DELIM = '^^';
