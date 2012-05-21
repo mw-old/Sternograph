@@ -113,6 +113,15 @@ $messages['ia'] = array(
 	'sternograph-speaker-is' => 'Le delimitator de bloco de parlator pro <$1> debe haber le character $2.',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'sternograph-empty' => '<$1> タグは空にはできません。',
+	'sternograph-nested' => '<$1> タグは入れ子にできません。',
+	'sternograph-speaker-is' => '<$1> スピーカーブロック行には $2 文字必要です。',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
