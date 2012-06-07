@@ -113,6 +113,15 @@ $messages['ia'] = array(
 	'sternograph-speaker-is' => 'Le delimitator de bloco de parlator pro <$1> debe haber le character $2.',
 );
 
+/** Italian (italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'sternograph-desc' => 'Tag <nowiki><sterno></nowiki> per le trascrizioni di parole pronunciate (spettacoli, interviste, ecc)',
+	'sternograph-empty' => 'Il tag <$1> non può essere vuoto.',
+	'sternograph-nested' => 'Il tag <$1> non può essere nidificato.',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
