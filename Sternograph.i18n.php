@@ -120,6 +120,7 @@ $messages['it'] = array(
 	'sternograph-desc' => 'Tag <nowiki><sterno></nowiki> per le trascrizioni di parole pronunciate (spettacoli, interviste, ecc)',
 	'sternograph-empty' => 'Il tag <$1> non può essere vuoto.',
 	'sternograph-nested' => 'Il tag <$1> non può essere nidificato.',
+	'sternograph-speaker-is' => 'Le linee del blocco di pronuncia <$1> devono avere il carattere $2.',
 );
 
 /** Japanese (日本語)
