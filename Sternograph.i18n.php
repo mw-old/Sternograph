@@ -35,7 +35,7 @@ $messages['qqq'] = array(
 * $2 is the character that is required.',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Y-M D
  */
 $messages['br'] = array(
@@ -63,7 +63,7 @@ $messages['dsb'] = array(
 	'sternograph-speaker-is' => 'Smužki powědarskego bloka <$1> musy $2 {{PLURAL:$2|znamuško|znamušce|znamuška|znamuškow}} měś.',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
@@ -73,7 +73,7 @@ $messages['es'] = array(
 	'sternograph-speaker-is' => 'Las líneas del bloque de discurso <$1> deben contener el carácter $2.',
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -103,7 +103,7 @@ $messages['hsb'] = array(
 	'sternograph-speaker-is' => 'Linki rěčniskeho bloka <$1> dyrbi $2 znamješkow měć.',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -139,7 +139,7 @@ $messages['lb'] = array(
 	'sternograph-desc' => "<nowiki><sterno></nowiki> Tagen fir d'Ëmschreiwe vu geschwate Wierder (Theaterstécker, Interviewen, asw.)",
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -169,7 +169,7 @@ $messages['nl'] = array(
 	'sternograph-speaker-is' => 'Het sprekerblok <$1> moet het teken $2 bevatten.',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  */
 $messages['pl'] = array(
@@ -190,7 +190,7 @@ $messages['pms'] = array(
 	'sternograph-speaker-is' => 'Le linie dël blòch dël discors <$1> a devo avèj ël caràter $2.',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Eleferen
  */
 $messages['ru'] = array(
