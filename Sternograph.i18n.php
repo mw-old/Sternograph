@@ -132,6 +132,16 @@ $messages['ja'] = array(
 	'sternograph-speaker-is' => '<$1> スピーカーブロック行には $2 文字必要です。',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'sternograph-desc' => '<nowiki><sterno></nowiki> Befähle för et Jeschwads opzeschrieve, en Stöckcher, Engervjuhs, un esu jät.',
+	'sternograph-empty' => 'Dä Befähl <$1> darf nit läddesch sin.',
+	'sternograph-nested' => 'Der Befähl <$1> darf mer nit verschachtelle.',
+	'sternograph-speaker-is' => 'En dä Reije em Kaste vum Schpräscher em Befähl <$1>  moss et Zeische $2 dren sin.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
