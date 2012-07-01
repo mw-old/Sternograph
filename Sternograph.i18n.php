@@ -53,7 +53,7 @@ $messages['de'] = array(
 	'sternograph-speaker-is' => 'Die Zeilen des <$1>-Blocks müssen das Zeichen „$2“ enthalten.',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -83,7 +83,7 @@ $messages['fr'] = array(
 	'sternograph-speaker-is' => 'Les lignes du bloc de discours <$1> doivent avoir le caractère $2.',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -93,7 +93,7 @@ $messages['gl'] = array(
 	'sternograph-speaker-is' => 'As liñas do bloque de discurso <$1> deben conter o carácter "$2".',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
