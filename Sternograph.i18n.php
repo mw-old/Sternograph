@@ -217,3 +217,13 @@ $messages['te'] = array(
 	'sternograph-empty' => '<$1> ట్యాగు ఖాళీగా ఉండకూడదు.',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'sternograph-desc' => 'Mga tatak na <nowiki><sterno></nowiki> para sa mga sipi ng naisulat na mga salitang nasabi (mga dula, mga panayam, atbp)',
+	'sternograph-empty' => 'Ang tatak na <$1> ay hindi maaaring walang laman.',
+	'sternograph-nested' => 'Ang tatak na <$1> ay hindi maaaring nakapugad.',
+	'sternograph-speaker-is' => 'Ang <$1> na mga guhit ng bloke ng tagapagsalita ay dapat na mayroong $2 mga panitik.',
+);
+
