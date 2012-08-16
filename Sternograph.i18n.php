@@ -83,6 +83,14 @@ $messages['fr'] = array(
 	'sternograph-speaker-is' => 'Les lignes du bloc de discours <$1> doivent avoir le caractère $2.',
 );
 
+/** Franco-Provençal (arpetan)
+ * @author ChrisPtDe
+ */
+$messages['frp'] = array(
+	'sternograph-empty' => 'La balisa <$1> pôt pas étre voueda.',
+	'sternograph-nested' => 'La balisa <$1> pôt pas étre embrecâye.',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
