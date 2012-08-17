@@ -35,6 +35,16 @@ $messages['qqq'] = array(
 * $2 is the character that is required.',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'sternograph-desc' => 'Etiquetes <nowiki><sterno></nowiki> pa trescripciones de discursos (representaciones, entrevistes, etc.)',
+	'sternograph-empty' => 'La etiqueta <$1> nun pue tar balera.',
+	'sternograph-nested' => 'La etiqueta <$1> nun pue tar añerada.',
+	'sternograph-speaker-is' => 'Les llinies del bloque de discursu <$1> tienen de tener el caráuter $2.',
+);
+
 /** Breton (brezhoneg)
  * @author Y-M D
  */
